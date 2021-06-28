@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765332951221",
+    "project_id": "chatapp-40813",
+    "storage_bucket": "chatapp-40813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765332951221:android:73059b0e226f0879592efc",
+        "android_client_info": {
+          "package_name": "com.tara.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765332951221-6n8pvsjiakolb0g2r818bc1ignlhh22n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiARSxuj8Awe-2cdtIkWaRe0AIiZU3_mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765332951221-6n8pvsjiakolb0g2r818bc1ignlhh22n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
